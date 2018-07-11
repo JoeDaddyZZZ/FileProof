@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="XLStoCSVTest.TestName.TestGroup.c:\Users\JoeDaddy\Downloads\NOAA.xlsx@Main.c:\Users\JoeDaddy\Documents\NOAA.csv"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.607">
+  <properties />
+  
+  
+            <testcase name="runTest" time="0.607" classname="com.gorski.ngTesting.XLStoCSVTest" />
+      
+</testsuite>

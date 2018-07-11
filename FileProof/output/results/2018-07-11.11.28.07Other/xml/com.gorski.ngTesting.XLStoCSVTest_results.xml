@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="XLStoCSVTest.TestName.TestGroup.c:\Users\JoeDaddy\Downloads\NOAA.xlsx@Main.c:\Users\JoeDaddy\Documents\NOAA.csv"
+           tests="1"
+           failures="1"
+           errors="0"
+           skipped="0"
+           time="0.641">
+  <properties />
+            <testcase name="runTest" time="0.641" classname="com.gorski.ngTesting.XLStoCSVTest">
+                <failure type="java.lang.AssertionError"
+                  message="The following asserts failed:
+  Bad Match Click,//*[@id=&quot;block-system-main&quot;]/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div[3]/div/div/div/div[1]/h2,Field,xpath,4, expected [true] but found [false],   Bad Match Click,//*[@id=&quot;block-system-main&quot;]/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div[3]/div/div/div/div[1]/div/div/ul/li[1]/a,Field,xpath,4, expected [true] but found [false],   Bad Match Has Text,//*[@id=&quot;block-system-main&quot;]/div/div/div/div/div/div[1]/div/div/div/div/div/h2,Field,xpath,Weather forecast tools, expected [true] but found [false],   Bad Match Click,//*[@id=&quot;block-system-main&quot;]/div/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/h4[1]/a,,xpath,4, expected [true] but found [false]"
+              >
+<![CDATA[java.lang.AssertionError: The following asserts failed:
+  Bad Match Click,//*[@id="block-system-main"]/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div[3]/div/div/div/div[1]/h2,Field,xpath,4, expected [true] but found [false],   Bad Match Click,//*[@id="block-system-main"]/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div[3]/div/div/div/div[1]/div/div/ul/li[1]/a,Field,xpath,4, expected [true] but found [false],   Bad Match Has Text,//*[@id="block-system-main"]/div/div/div/div/div/div[1]/div/div/div/div/div/h2,Field,xpath,Weather forecast tools, expected [true] but found [false],   Bad Match Click,//*[@id="block-system-main"]/div/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/h4[1]/a,,xpath,4, expected [true] but found [false]
+  org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:38)
+  com.gorski.ngTesting.XLStoCSVTest.runTest(XLStoCSVTest.java:66)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+  java.lang.reflect.Method.invoke(Unknown Source)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:696)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:882)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1189)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:124)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+  org.testng.TestRunner.privateRun(TestRunner.java:767)
+  org.testng.TestRunner.run(TestRunner.java:617)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+  org.testng.SuiteRunner.run(SuiteRunner.java:254)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+  org.testng.TestNG.run(TestNG.java:1057)
+  com.gorski.ngTesting.ngTestDriver.main(ngTestDriver.java:89)
+]]>
+      </failure>
+
+          </testcase>
+  
+  
+  
+</testsuite>
