@@ -11,6 +11,9 @@ pipeline {
         sh '''java -version
 ls -alrt
 pwd
+cd FileProof
+ls -alrt
+
 '''
       }
     }
