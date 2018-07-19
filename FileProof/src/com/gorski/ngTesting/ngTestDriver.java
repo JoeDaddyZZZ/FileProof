@@ -26,7 +26,8 @@ public class ngTestDriver {
 		 */
 		String[] tests = new String[] {
 				// testParm1 = true/false if group should have access
-			"XLStoCSVTest,TestName,TestGroup,c:\\Users\\JoeDaddy\\Downloads\\NOAA.xlsx@Main,c:\\Users\\JoeDaddy\\Documents\\NOAA.csv",
+//			"XLStoCSVTest,TestName,TestGroup,c:\\Users\\JoeDaddy\\Downloads\\NOAA.xlsx@Main,c:\\Users\\JoeDaddy\\Documents\\NOAA.csv",
+			"XLStoCSVTest,TestName,TestGroup,NOAA.xlsx@Main,NOAA.csv",
 				};
 		String suiteName = "";
 		suiteName = "Other";

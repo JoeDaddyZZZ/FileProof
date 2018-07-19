@@ -1,0 +1,7 @@
+Command,Element ID,Element Type,Identifier Type,Parameter,Notes
+Variable,Vloc,,,32162,
+Access URL,,,,http://www.noaa.gov/,
+Click,"//*[@id=""block-system-main""]/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div[3]/div/div/div/div[1]/h2",Field,xpath,4,
+Click,"//*[@id=""block-system-main""]/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div[3]/div/div/div/div[1]/div/div/ul/li[1]/a",Field,xpath,4,
+Has Text,"//*[@id=""block-system-main""]/div/div/div/div/div/div[1]/div/div/div/div/div/h2",Field,xpath,Weather forecast tools,
+Click,"//*[@id=""block-system-main""]/div/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/h4[1]/a",,xpath,4,
