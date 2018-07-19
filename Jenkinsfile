@@ -13,6 +13,7 @@ ls -alrt
 pwd
 cd FileProof
 ls -alrt
+java -jar FileProof.jar 
 
 '''
       }
