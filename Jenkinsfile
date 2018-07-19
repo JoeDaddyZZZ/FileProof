@@ -13,7 +13,7 @@ ls -alrt
 pwd
 cd FileProof
 ls -alrt
-java -jar FileProof.jar 
+
 
 '''
         git(url: 'https://github.com/JoeDaddyZZZ/FileProof.git', branch: 'local')
