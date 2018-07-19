@@ -16,7 +16,8 @@ pwd
 
 '''
         git(url: 'https://github.com/JoeDaddyZZZ/FileProof.git', branch: 'master')
-        sh '''ls -alrt
+        sh '''cd FileProof
+ls -alrt
 pwd
 java -jar FileProof.jar'''
       }
